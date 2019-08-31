@@ -1,0 +1,6 @@
+export const GET_CUSTOMERS = 'GET_CUSTOMERS';
+export const GET_CUSTOMER = 'GET_CUSTOMER';
+export const ADD_CUSTOMER = 'ADD_CUSTOMER';
+export const ADD_CUST = 'ADD_CUST';
+export const DELETE_CUSTOMER = 'DELETE_CUSTOMER';
+export const CUSTOMERS_LOADING = 'CUSTOMERS_LOADING';
